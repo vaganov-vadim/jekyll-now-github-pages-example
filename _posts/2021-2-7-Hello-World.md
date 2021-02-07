@@ -11,7 +11,7 @@ I will mostly post about **.NET** development and other software development-rel
 Let me tease you a little. Next few weeks I will post about a surprisingly hot topic in my team - **tuples in C#**. 
 I'll discuss:
 - what's the main use-case for tuples;
-- compare them with anonymous classes;
+- compare them with anonymous types;
 - dig into some interesting details you might not know;
 - also take a look into the functional world and borrow tuple usages and techniques from **F#**. 
 

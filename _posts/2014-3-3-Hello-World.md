@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello everyone! I've decided to create my blog for the sake of self-improvement. Many brilliant developers say that creating a blog is _the best_ thing you can do for your career. So I will give it a shot!
+I will mostly post about **.NET** development and other software development-related things.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/helloworld.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Let me tease you a little. Next few weeks I will post about a surprisingly hot topic in my team - **tuples in C#**. 
+I'll discuss:
+- what's the main use-case for tuples;
+- compare them with anonymous classes;
+- dig into some interesting details you might not know;
+- also take a look into the functional world and borrow tuple usages and techniques from **F#**. 
+
+I am going to post at least on the _weekly basis_ so stay tuned!

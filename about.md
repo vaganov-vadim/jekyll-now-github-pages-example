@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About this blog
 
-### More Information
+Here you will find articles about C#, F#, testing, best practices, and other software development-related topics.
 
-A place to include any other types of information that you'd like to include about yourself.
+### About me
+
+I am a .NET Developer currently working in one of the biggest banks in Russia.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+vrvaganov@gmail.com

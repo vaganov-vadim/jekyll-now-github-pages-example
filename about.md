@@ -14,4 +14,4 @@ I am a .NET Developer currently working in one of the biggest banks in Russia.
 
 ### Contact me
 
-vrvaganov@gmail.com
+If you have question or suggestion then contact me at vrvaganov@gmail.com or any other social below!

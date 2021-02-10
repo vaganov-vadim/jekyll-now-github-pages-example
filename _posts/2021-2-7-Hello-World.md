@@ -9,7 +9,8 @@ I will mostly post about **.NET** development and other software development-rel
 ![_config.yml]({{ site.baseurl }}/images/helloworld.png)
 
 Let me tease you a little. Next few weeks I will post about a surprisingly hot topic in my team - **tuples in C#**. 
-I'll discuss:
+Tuples are not a new feature by any means but some people are still not sure how to use them properly.
+In the next few posts I'll discuss:
 - what's the main use-case for tuples;
 - compare them with anonymous types;
 - dig into some interesting details you might not know;

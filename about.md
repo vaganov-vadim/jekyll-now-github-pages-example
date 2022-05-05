@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Об авторе
 permalink: /about/
 ---
 
-Some information about you!
+### О блоге
 
-### More Information
+TODO
 
-A place to include any other types of information that you'd like to include about yourself.
+### Об авторе
 
-### Contact me
+TODO
 
-[email@domain.com](mailto:email@domain.com)
+### Контакты
+
+По любым вопросам и предложениям можно обращаться в твиттере или телеграмме @vrvaganov, по почте vrvaganov@gmail.com или любому другому способу, указанному ниже.

@@ -1,1 +1,1 @@
-Читайте блог по ссылке - [vrvaganov.github.io](http://vrvaganov.github.io).
+Пример использования [jekyll-now](https://github.com/barryclark/jekyll-now) и [GitHub Pages](https://pages.github.com/). 
